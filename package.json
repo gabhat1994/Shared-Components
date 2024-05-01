@@ -8,7 +8,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@gabhat1994"
   },
-  "name": "@gabhat1994/Shared-Components",
+  "name": "@gabhat1994/shared-components",
   "files": [
     "/dist"
   ],
