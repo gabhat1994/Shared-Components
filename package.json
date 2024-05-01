@@ -1,11 +1,14 @@
 {
-  "name": "rsubale-code",
   "version": "1.0.0",
   "description": "",
   "type": "module",
   "main": "dist/index.cjs.js",
   "module": "dist/index.es.js",
   "types": "dist/index.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@gabhat1994"
+  },
+  "name": "@gabhat1994/Shared-Components",
   "files": [
     "/dist"
   ],
